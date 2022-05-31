@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## 0.1.0 - 2022-05-31
+
 -   Repository Setup ([#1](https://github.com/curriculum-blackboard/unreal-crypt-raider/pull/1))
     -   Added Readme, License and Changelog files ([3bca37a](https://github.com/curriculum-blackboard/unreal-crypt-raider/commit/3bca37a))
     -   Added Contributing guidelines ([64aa2b7](https://github.com/curriculum-blackboard/unreal-crypt-raider/commit/64aa2b7))
