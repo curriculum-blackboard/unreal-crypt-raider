@@ -12,3 +12,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     -   Added Contributing guidelines ([64aa2b7](https://github.com/curriculum-blackboard/unreal-crypt-raider/commit/64aa2b7))
     -   Added Code Configuration files ([bbcc4d5](https://github.com/curriculum-blackboard/unreal-crypt-raider/commit/bbcc4d5))
     -   Added Release workflow ([d651b4f](https://github.com/curriculum-blackboard/unreal-crypt-raider/commit/d651b4f))
+
+-   Project Setup ([#2](https://github.com/curriculum-blackboard/unreal-crypt-raider/pull/2))
+    -   Added Project files ([953cbf2](https://github.com/curriculum-blackboard/unreal-crypt-raider/commit/953cbf2))
+    -   Added First Person Template plugin ([5c0d6d1](https://github.com/curriculum-blackboard/unreal-crypt-raider/commit/5c0d6d1))
+    -   Added Medieval Dungeon plugin - Part 1 ([025e01d](https://github.com/curriculum-blackboard/unreal-crypt-raider/commit/025e01d))
+    -   Added Medieval Dungeon plugin - Part 2 ([c69d1fa](https://github.com/curriculum-blackboard/unreal-crypt-raider/commit/c69d1fa))

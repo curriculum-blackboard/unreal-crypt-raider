@@ -1,0 +1,16 @@
+{
+    "FileVersion": 3,
+    "Version": 1,
+    "VersionName": "5.0.1",
+    "FriendlyName": "Medieval Dungeon",
+    "Description": "Medieval Dungeon content for projects using Unreal Engine, developed by Infuse Studio.",
+    "Category": "Content",
+    "CreatedBy": "Infuse Studio",
+    "CreatedByURL": "https://infusedstudio.com/",
+    "SupportURL": "mailto:general@infusestudio.co",
+    "EnabledByDefault": true,
+    "CanContainContent": true,
+    "IsBetaVersion": false,
+    "IsExperimentalVersion": false,
+    "Installed": false
+}
